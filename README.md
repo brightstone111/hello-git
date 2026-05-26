@@ -19,6 +19,8 @@
   - ISFJ
   - 토끼띠🐰
 
+  <img src="https://mblogthumb-phinf.pstatic.net/MjAyMjAxMjdfMjgx/MDAxNjQzMjkzMDIzMDg3.yFPfnKQqyMVUmCjMcMTPQe2elrsLGHEYl-YkO5q23x8g.fXZ5FrKWuNYQbydxnaKoJr-wVYRnHqkQh0RZd4fx9Fgg.PNG.rayharp/image.png?type=w800" width="30%">
+
 # 우리 팀 LUNCH MENU
 
 여러분 오늘 점심 메뉴 뭐 먹어요?
