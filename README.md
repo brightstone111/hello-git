@@ -19,7 +19,7 @@
   - ISFJ
   - 토끼띠🐰
 
-  <img src="https://mblogthumb-phinf.pstatic.net/MjAyMjAxMjdfMjgx/MDAxNjQzMjkzMDIzMDg3.yFPfnKQqyMVUmCjMcMTPQe2elrsLGHEYl-YkO5q23x8g.fXZ5FrKWuNYQbydxnaKoJr-wVYRnHqkQh0RZd4fx9Fgg.PNG.rayharp/image.png?type=w800" width="30%"> <img src="https://img1.daumcdn.net/thumb/R1280x0.fjpg/?fname=http://t1.daumcdn.net/brunch/service/user/7r1n/image/SNLu5c3NL4VHz8qKuXlZR0a6Ug8.jpg" width="40%">
+  <img src="https://mblogthumb-phinf.pstatic.net/MjAyMjAxMjdfMjgx/MDAxNjQzMjkzMDIzMDg3.yFPfnKQqyMVUmCjMcMTPQe2elrsLGHEYl-YkO5q23x8g.fXZ5FrKWuNYQbydxnaKoJr-wVYRnHqkQh0RZd4fx9Fgg.PNG.rayharp/image.png?type=w800" width="30%"> <img src="https://i.pinimg.com/564x/d6/bd/06/d6bd0625cbbf908b2e23a6a72023014a.jpg" width="40%">
 
 # 우리 팀 LUNCH MENU
 
